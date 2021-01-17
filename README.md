@@ -7,7 +7,7 @@ as well as forward the video and make the decision.
 # Author:
 Mayur kumar verma
 
-#Requirements:
+# Requirements:
 ### Pyhton3
 ### Tkinter Module
 ### cv2 Module
